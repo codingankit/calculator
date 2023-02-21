@@ -11,7 +11,7 @@ body{
 }
 #header{
  text-align:center;
- margin-top:36%;
+ margin-top:43%;
  color:#54cad9;
 }
 #calcu{
@@ -57,7 +57,7 @@ body{
  outline:none;
 }
 .fill{
- background-color:#fff;
+ background-color:#54cad9;
  color:#000;
 }
 .num{
